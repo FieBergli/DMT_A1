@@ -1,4 +1,7 @@
 dataset_mood_smartphone.csv
 DMT/
-
+.venv/
+venv/
+.env/
+__pycache__/
 .ipynb_checkpoints/
